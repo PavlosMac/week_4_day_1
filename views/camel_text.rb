@@ -1,0 +1,1 @@
+<h1> this erb thing is making me write funky upstyled text as <%= @new_text %></h1>
